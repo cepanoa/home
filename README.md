@@ -2,7 +2,7 @@
 - 👀 I’m interested in Digital Health
 - 🌱 I’m currently building a platform to heal from ACEs
 - 💞️ I’m looking to collaborate with Payers and Providers
-- 📫 How to reach me shoeb@cepanoa.com
+- 📫 How to reach me jing@cepanoa.com / shoeb@cepanoa.com
 - ⚡ Fun fact: I haven't screened for my ACE score
 
 <!---
